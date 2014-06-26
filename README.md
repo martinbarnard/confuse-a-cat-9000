@@ -27,6 +27,8 @@ appropriately.  I would love for more detailed instructions to go here
 (I just followed the examples out of the
 [SparkFun Inventor's Kit][sparkfun-inventor-kit]).
 
+Download and install [Fritzing][fritzing]
+[fritzing]: http://fritzing.org/download "Fritzing circuit designer"
 [sparkfun-inventor-kit]: http://www.sparkfun.com/products/10173 "See the Web or Print quality guide"
 
 #### Digital pins
